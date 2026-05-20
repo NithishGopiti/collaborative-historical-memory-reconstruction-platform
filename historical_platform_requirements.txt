@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+faker
+loguru
+redis
+networkx
+pandas
+numpy
+httpx
+passlib
+bcrypt
+apscheduler
